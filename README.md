@@ -8,7 +8,7 @@ Asus X540LJ Hackintosh working OpenCore 0.6.8 EFI with macOS Big Sur 11.2.3
 # Specifications:
 
 - **MainBoard:** Asus X540LJ.
-- **Processor:** Intel Core i3-4005U @ 2.0GHz (Haswell)
+- **Processor:** Intel Core i3-4005U @ 1.7GHz (Haswell)
 - **RAM:** 8GB DDR3 1600mhz (Duel channel)
 - **Graphic:** 
   + Intel HD5400
