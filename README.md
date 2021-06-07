@@ -37,7 +37,7 @@ Asus X540LJ Hackintosh working OpenCore 0.6.8 EFI with macOS Big Sur 11.2.3
 - [x] Battery Stat 
 - [x] Tempareture Monitor 
 - [x] Apple Store 
-- [x] iCloud 
+- [x] iCloud ( iMessage + all iCloud functions )
 - [x] Fn feature    **(not all button works)**
 
 # Not WORKING:
